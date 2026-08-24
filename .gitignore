@@ -1,0 +1,9 @@
+/target
+/data
+**/*.sqlite
+**/*.sqlite-wal
+**/*.sqlite-shm
+/node_modules
+/dist
+/.output
+/src-tauri/gen

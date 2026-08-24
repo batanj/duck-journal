@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/accounts",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "DuckJournal",
+      "hasCanvas": false,
+      "bodyTextLen": 341,
+      "bodyTextHash": "e22ada9b14470daeef846f51f5350f6ef34af64ad7b79a203c705e3a3c097cd1",
+      "bodyTextPrefix": "DuckJournal Main desk Overview Fills Calendar Analytics Accounts",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/accounts.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "DuckJournal",
+      "hasCanvas": false,
+      "bodyTextLen": 303,
+      "bodyTextHash": "28fed97848f7e3da3f19a9dd6f79f82f3450d4b62011fc978d5e1375391555d5",
+      "bodyTextPrefix": "DuckJournal 1 CONNECTED Accounts Investor logins live here. Over",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/accounts-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/accounts.json"
+}

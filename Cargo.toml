@@ -1,0 +1,18 @@
+[workspace]
+resolver = "2"
+members = ["crates/journal-core", "crates/journal-server", "src-tauri"]
+default-members = ["crates/journal-core", "crates/journal-server"]
+
+[workspace.package]
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+
+[workspace.dependencies]
+anyhow = "1"
+chrono = { version = "0.4", features = ["serde"] }
+rusqlite = { version = "0.32", features = ["bundled"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+uuid = { version = "1", features = ["v4", "serde"] }
+thiserror = "2"

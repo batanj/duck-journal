@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/calendar",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "DuckJournal",
+      "hasCanvas": false,
+      "bodyTextLen": 370,
+      "bodyTextHash": "6f642b5c63683fe62343e04851e8bce9134cc4ae5b2380b4f1fbae3ef7cc7723",
+      "bodyTextPrefix": "DuckJournal Main desk Overview Fills Calendar Analytics Import L",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/calendar.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "DuckJournal",
+      "hasCanvas": false,
+      "bodyTextLen": 277,
+      "bodyTextHash": "977bc37672bd90a4316624c48d2533e16745a8e4acc1b671f6a750e3c3e57b71",
+      "bodyTextPrefix": "DuckJournal DAILY P&L August 2026 Month net +$741.96 SUN MON TUE",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/calendar-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/calendar.json"
+}

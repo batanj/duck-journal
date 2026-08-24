@@ -1,0 +1,20 @@
+[package]
+name = "duckjournal"
+version.workspace = true
+edition.workspace = true
+description = "DuckJournal desktop"
+default-run = "duckjournal"
+
+[lib]
+name = "duckjournal_lib"
+crate-type = ["staticlib", "cdylib", "rlib"]
+
+[build-dependencies]
+tauri-build = { version = "2", features = [] }
+
+[dependencies]
+journal-core = { path = "../crates/journal-core" }
+serde.workspace = true
+serde_json.workspace = true
+tauri = { version = "2", features = [] }
+tauri-plugin-opener = "2"

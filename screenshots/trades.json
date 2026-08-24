@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/trades",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "DuckJournal",
+      "hasCanvas": false,
+      "bodyTextLen": 5354,
+      "bodyTextHash": "c96ea67ed6646e8aab012e8777c68e2a812b4a585a14adc829b69476666a66bb",
+      "bodyTextPrefix": "DuckJournal Main desk Overview Fills Calendar Analytics Accounts",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/trades.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "DuckJournal",
+      "hasCanvas": false,
+      "bodyTextLen": 4525,
+      "bodyTextHash": "e32a474f06c2a449fc3b2c41e1abf8ad0010210b98ac01c865d1c1a59c244977",
+      "bodyTextPrefix": "DuckJournal 119 OF 119 Fills All accounts Log fill All symbols L",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/trades-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/trades.json"
+}

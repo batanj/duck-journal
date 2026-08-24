@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/analytics",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Blotter",
+      "hasCanvas": false,
+      "bodyTextLen": 838,
+      "bodyTextHash": "6c703a2e8db9a10471b9aa3e94f09faf8b05c99943b9053d3d0447bcf023e68d",
+      "bodyTextPrefix": "Blotter Main desk Overview Fills Calendar Analytics Import Log f",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/analytics.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Blotter",
+      "hasCanvas": false,
+      "bodyTextLen": 810,
+      "bodyTextHash": "b7fa2ba2f4e29c375215294c4ac35e4d6d62ce49479e7a483837ea10f4023b2f",
+      "bodyTextPrefix": "Blotter PROCESS & EDGE Analytics Where the money actually came f",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/analytics-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/analytics.json"
+}

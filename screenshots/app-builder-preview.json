@@ -1,0 +1,40 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "DuckJournal",
+      "hasCanvas": false,
+      "bodyTextLen": 940,
+      "bodyTextHash": "5f2e07dc552b4f1bb6348ceb70069883bfb790a1c99dac56e02a85e89987016b",
+      "bodyTextPrefix": "DuckJournal 2 accounts Overview Fills Calendar Analytics Account",
+      "horizontalOverflow": false,
+      "consoleErrors": [
+        "Failed to load resource: net::ERR_BLOCKED_BY_RESPONSE.NotSameOrigin"
+      ],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "DuckJournal",
+      "hasCanvas": false,
+      "bodyTextLen": 859,
+      "bodyTextHash": "fa328b60fb5edd098d642903635039ffe36912f704e88bd032cce02624848967",
+      "bodyTextPrefix": "DuckJournal SUNDAY, 23 AUGUST 2026 The book All accounts · 2 des",
+      "horizontalOverflow": false,
+      "consoleErrors": [
+        "Failed to load resource: net::ERR_BLOCKED_BY_RESPONSE.NotSameOrigin"
+      ],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

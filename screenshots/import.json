@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/import",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Blotter",
+      "hasCanvas": false,
+      "bodyTextLen": 870,
+      "bodyTextHash": "235650dbc87b3677cc713d835e7f3b64a773c8e71c4fdbd842ffc1ef5a2f0765",
+      "bodyTextPrefix": "Blotter Main desk Overview Fills Calendar Analytics Import Log f",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/import.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Blotter",
+      "hasCanvas": false,
+      "bodyTextLen": 842,
+      "bodyTextHash": "ccbf54f8342bd0a206e85dd311b9ee95f7532beff1c3dd3a66560bc5c95cb1cb",
+      "bodyTextPrefix": "Blotter TERMINALS Import Blotter reads the history file your pla",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/import-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/import.json"
+}

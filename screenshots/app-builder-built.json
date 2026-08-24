@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "DuckJournal",
+      "hasCanvas": false,
+      "bodyTextLen": 240,
+      "bodyTextHash": "a055eb27d46630a7314ff142e1471a85ddee863ce5d90f9a76bf334ce7f4d875",
+      "bodyTextPrefix": "DuckJournal No accounts Overview Fills Calendar Analytics Accoun",
+      "horizontalOverflow": false,
+      "consoleErrors": [
+        "Failed to load resource: net::ERR_BLOCKED_BY_RESPONSE.NotSameOrigin"
+      ],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "DuckJournal",
+      "hasCanvas": false,
+      "bodyTextLen": 200,
+      "bodyTextHash": "1061d03a0ccd83a44e5cc2b96ff2cc72520a41714e379ffa7bb35df14bfcc652",
+      "bodyTextPrefix": "DuckJournal No fills yet Connect a terminal account to pull hist",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json"
+}
